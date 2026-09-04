@@ -1,0 +1,21 @@
+# virtual environment
+.venv/
+venv/
+
+# python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# operating system files
+.DS_Store
+
+# vscode settings
+.vscode/
+
+# temporary files
+*.log
+
+# generated benchmark csv files
+outputs/benchmarks/*.csv
